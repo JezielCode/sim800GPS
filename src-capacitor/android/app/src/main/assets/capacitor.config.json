@@ -1,0 +1,10 @@
+{
+	"appId": "com.rasgps.app",
+	"appName": "rasgps",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "www",
+	"server": {
+		"url": "http://192.168.137.1:8080"
+	}
+}

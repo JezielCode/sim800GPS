@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">rasgps</string>
+    <string name="title_activity_main">rasgps</string>
+    <string name="package_name">com.rasgps.app</string>
+    <string name="custom_url_scheme">com.rasgps.app</string>
+</resources>

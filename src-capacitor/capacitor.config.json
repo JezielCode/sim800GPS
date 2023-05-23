@@ -1,0 +1,7 @@
+{
+  "appId": "com.rasgps.app",
+  "appName": "rasgps",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
